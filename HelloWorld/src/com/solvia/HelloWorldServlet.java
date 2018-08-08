@@ -30,6 +30,7 @@ public class HelloWorldServlet extends HttpServlet {
 		//response.getWriter().append("Served at: ").append(request.getContextPath());
 		response.getWriter().println("Hello World");
 		response.getWriter().println("Hello Solvia");
+		response.getWriter().println("Hello Mert");
 		
 	}
 
