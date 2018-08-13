@@ -32,8 +32,8 @@ public class HelloWorldServlet extends HttpServlet {
 		response.getWriter().println("Hello World");
 		response.getWriter().println("Hello Solvia");
 		response.getWriter().println("Hello Sap");
-		/*response.getWriter().println("Hello Hana Cloud Platform");
-		response.getWriter().println("Hello Mert");
+		response.getWriter().println("Hello Hana Cloud Platform");
+		/*response.getWriter().println("Hello Mert");
 		response.getWriter().println("Hello Solvia");
 		response.getWriter().println("Hello Sap");*/
 	}
